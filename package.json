@@ -1,0 +1,28 @@
+{
+  "name": "anti-social",
+  "version": "0.0.1",
+  "description": "xmpp client written with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanMW/anti-social.git"
+  },
+  "keywords": [
+    "node",
+    "xmpp",
+    "client",
+    "chat"
+  ],
+  "author": "Dean M Wake",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DeanMW/anti-social/issues"
+  },
+  "homepage": "https://github.com/DeanMW/anti-social#readme",
+  "dependencies": {
+    "node-xmpp-client": "^3.0.0"
+  }
+}
